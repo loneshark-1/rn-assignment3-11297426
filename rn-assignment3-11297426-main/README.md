@@ -24,6 +24,6 @@ The App component is the main component that brings together all the other compo
 
 ## Screenshots
 
-Unfortunately, I don't have access to the actual screenshots of the app since I'm an AI assistant without the capability to run or build the application. However, based on the provided UI design, the app should closely resemble the following mockup:
 
-[Insert UI mockup image from Figma here]
+![Screenshot](assets/screenshot.jpg)
+
